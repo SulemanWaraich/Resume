@@ -1,0 +1,11 @@
+@media screen and (max-width:1250px)
+{
+ body
+ {
+  background-color: red;
+ }
+ .cards
+ {
+  width: 10vw;
+ } 
+}
