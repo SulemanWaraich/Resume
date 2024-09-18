@@ -1,0 +1,15 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.light-theme
+{
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
+}
+.dark-theme
+{
+  --primary-color: #000106;
+  --secondary-color: #fff;
+}
